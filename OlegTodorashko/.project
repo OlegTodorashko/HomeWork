@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>OlegTodorashko</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/flights.txt</name>
+			<type>1</type>
+			<location>/home/lermontov/workspace/flights.txt</location>
+		</link>
+		<link>
+			<name>src/lyrics.txt</name>
+			<type>1</type>
+			<location>/home/lermontov/Документы/lyrics.txt</location>
+		</link>
+		<link>
+			<name>src/x_db08f7fb.jpg</name>
+			<type>1</type>
+			<location>/home/lermontov/Изображения/x_db08f7fb.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
